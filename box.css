@@ -1,0 +1,29 @@
+.b1 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color:  #6495ED;
+}
+
+.b2 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: #DC143C;
+}
+
+.b3 {
+   display:inline-block;
+   position: relative;
+   width:100px;
+   height:100px;
+   padding: 50px;
+   margin: 5px;
+   background-color: #FF7F50;
+}
